@@ -1,0 +1,10 @@
+C:\Projects\Odyssey Uninstall\bin\Release\Odyssey Uninstall.exe.config
+C:\Projects\Odyssey Uninstall\bin\Release\Odyssey Uninstall.exe
+C:\Projects\Odyssey Uninstall\bin\Release\Odyssey Uninstall.pdb
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey_Uninstall.Uninstall_Form.resources
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey_Uninstall.OdysseyUninstall.resources
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey_Uninstall.Properties.Resources.resources
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey Uninstall.csproj.GenerateResource.cache
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey Uninstall.csproj.CoreCompileInputs.cache
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey Uninstall.exe
+C:\Projects\Odyssey Uninstall\obj\Release\Odyssey Uninstall.pdb

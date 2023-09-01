@@ -1,0 +1,23 @@
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\Odyssey Uninstall.exe.config
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\Odyssey Uninstall.exe
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\b\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey_Uninstall.Uninstall_Form.resources
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey_Uninstall.OdysseyUninstall.resources
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey_Uninstall.Properties.Resources.resources
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey Uninstall.csproj.GenerateResource.cache
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey Uninstall.csproj.CoreCompileInputs.cache
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey Uninstall.csproj.CopyComplete
+C:\Projects\Odyssey Uninstall\.vs\Odyssey Uninstall\v16\lut\0\i\Odyssey Uninstall\Release\Odyssey Uninstall.exe
